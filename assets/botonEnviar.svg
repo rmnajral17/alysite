@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="botonEnviar" xmlns="http://www.w3.org/2000/svg">
+    <rect id="enviar" x="0" y="50" width="181.22" height="56.98" rx="15.03" ry="15.03" style="fill: #7b88cf; stroke: #fff; stroke-miterlimit: 10;"/>
+    <text transform="translate(48 85)" style="fill: #f2f2f2; font-family: ArticulatCF-Medium, &apos;Articulat CF&apos;; font-size: 27.76px; font-weight: 500;"><tspan x="0" y="0" style="letter-spacing: 0em;">e</tspan><tspan x="15.41" y="0" style="letter-spacing: -.01em;">n</tspan><tspan x="31.04" y="0" style="letter-spacing: 0em;">v</tspan><tspan x="46.75" y="0" style="letter-spacing: 0em;">i</tspan><tspan x="52.89" y="0" style="letter-spacing: .01em;">a</tspan><tspan x="68.4" y="0" style="letter-spacing: 0em;">r</tspan></text>
+</svg>
